@@ -11,7 +11,7 @@ namespace Student7.Data.Migrations
             migrationBuilder.DropIndex(
                 name: "IX_AspNetUserRoles_UserId",
                 table: "AspNetUserRoles");
-
+            //test, just make a change to test github commit
             migrationBuilder.DropIndex(
                 name: "RoleNameIndex",
                 table: "AspNetRoles");
